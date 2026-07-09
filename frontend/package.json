@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "homepage": "https://moukis.github.io/moukistech.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
