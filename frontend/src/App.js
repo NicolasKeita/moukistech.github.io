@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <div className="noise-overlay" aria-hidden="true" />
       <AuthProvider>
-        <BrowserRouter>
+        <BrowserRouter basename="/moukistech.github.io">
           <Routes>
             <Route path="/" element={<Landing />} />
             <Route path="/blog" element={<Blog />} />
